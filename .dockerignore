@@ -1,0 +1,13 @@
+**/.gitkeep
+**/.DS_Store
+.next/
+Dockerfile
+dist/
+test/
+docker-compose.yml
+node_modules/
+nginx/
+.env-example
+Dockerfile
+docker-compose.yml
+README.md
